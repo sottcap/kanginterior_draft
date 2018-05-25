@@ -2,6 +2,7 @@
 layout: blog
 title: Kang Interior - Exterior
 description:
+permalink: /exterior/
 keyword: exterior
 sitemap:
     priority: 0.7

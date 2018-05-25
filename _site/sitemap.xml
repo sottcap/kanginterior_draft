@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/208_campora/interior/2018/03/27/Northvale-Kitchen-Renovation.html</loc>
+      <loc>/208_campora/renovation/2018/03/27/Northvale-Kitchen-Renovation.html</loc>
       
         <lastmod>2018-03-27T00:00:00-04:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>/157_grant/exterior/2008/03/19/Haworth-Residential-Home.html</loc>
+      <loc>/157_grant/new-building/2008/03/19/Haworth-Residential-Home.html</loc>
       
         <lastmod>2008-03-19T00:00:00-04:00</lastmod>
       
@@ -51,7 +51,7 @@
      </url>
   
     <url>
-      <loc>/elements.html</loc>
+      <loc>/commercial/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -61,7 +61,7 @@
      </url>
   
     <url>
-      <loc>/exterior/</loc>
+      <loc>/elements.html</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -81,7 +81,27 @@
      </url>
   
     <url>
-      <loc>/interior/</loc>
+      <loc>/new-building/</loc>
+       <lastmod>2017-11-02T00:00:00-04:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/rendering/</loc>
+       <lastmod>2017-11-02T00:00:00-04:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/renovation/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>

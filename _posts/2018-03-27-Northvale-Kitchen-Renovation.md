@@ -3,7 +3,7 @@ layout: post
 title:  "Northvale Kitchen Renovation"
 date:   2018-03-27
 excerpt: "Northvale Kitchen Renovation"
-categories: 208_Campora interior
+categories: 208_Campora renovation
 image: "/images/208_Campora_Dr_northvale.jpg"
 ---
 

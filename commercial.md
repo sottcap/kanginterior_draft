@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Kang Interior - Interior
+title: Kang Interior - Commercial
 description:
-keyword: interior
-permalink: /interior/
+permalink: /commercial/
+keyword: commercial
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

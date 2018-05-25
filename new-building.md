@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Kang Interior - Exterior
+title: Kang Interior - New Building
 description:
-permalink: /exterior/
-keyword: exterior
+permalink: /new-building/
+keyword: new-building
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

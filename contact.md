@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Kang Interior - About Me
-permalink: /about/
+layout: contact
+title: Kang Interior - Contact
+permalink: /contact/
 description:
 sitemap:
     priority: 0.7
